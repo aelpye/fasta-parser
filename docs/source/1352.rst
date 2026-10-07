@@ -1,0 +1,7 @@
+1352 module
+===========
+
+.. automodule:: 1352
+   :members:
+   :show-inheritance:
+   :undoc-members:
