@@ -1,7 +1,0 @@
-12 module
-=========
-
-.. automodule:: 12
-   :members:
-   :show-inheritance:
-   :undoc-members:
